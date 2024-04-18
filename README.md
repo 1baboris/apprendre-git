@@ -6,3 +6,11 @@
  git init
  git remote add origin SSH-REPO
 ```
+
+## Rédiger un commit
+
+```
+Titre du commit
+
+Desciption de notre commit avec des infomations sur l'évolution du projet
+```
